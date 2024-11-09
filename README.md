@@ -2,6 +2,10 @@
 This is the portfolio of python code that I learned during BISC 450C. 
 
 
+## Analyzing Patient Data
+
+In this analysis, we looked at inflammation data for multiple patients.
+
 ```python
 import numpy
 ```
