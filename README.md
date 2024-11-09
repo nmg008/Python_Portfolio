@@ -1151,7 +1151,6 @@ print(len(name))
 
 
 
-
 ## Using Mutliple Files
 ```python
 import glob
