@@ -1,5 +1,5 @@
 # Garnett_Python_Portfolio
-This is the portfolio of python code that I learned during BISC 450C. 
+This is the portfolio of python code that I learned during BISC 450C. I have learned how interesting it is to see the various ways coding and programming can be used in real world situations and even tackle biological challeneges. This is my second class to take with Dr. VDB, and it has been just as rewarding as the first. I have learned valuable skills in coding and problem-solving. I am excited to utilize these thorughout my future studies.
 
 
 ## Analyzing Patient Data
