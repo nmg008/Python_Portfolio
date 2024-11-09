@@ -697,7 +697,8 @@ plot(x, y1, ax, 'Increase in mean Fortune 500 company profits from 1955 to 2005'
 ```
 
 
-![png](output_16_0.png)
+![output_16_0](https://github.com/user-attachments/assets/5fd2e54c-9b5f-47e6-87db-f993dfd3e9fe)
+
 
 
 
@@ -708,7 +709,8 @@ plot(x, y2, ax, 'Increase in mean Fortune 500 company revenues from 1955 to 2005
 ```
 
 
-![png](output_17_0.png)
+![output_17_0](https://github.com/user-attachments/assets/fe409208-55da-4fc5-92c8-33345c42624e)
+
 
 
 
@@ -727,7 +729,8 @@ fig.tight_layout()
 ```
 
 
-![png](output_18_0.png)
+![output_18_0](https://github.com/user-attachments/assets/dcdcd019-5b6d-43da-9af0-ea300adb5cc5)
+
 
 
 
