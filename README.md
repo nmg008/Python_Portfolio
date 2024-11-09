@@ -882,11 +882,6 @@ print('weight in kilograms is now:', weight_kg)
 
 
 
-```python
-
-```
-
-
 
 ## Storing Values in Lists
 
@@ -1156,12 +1151,3 @@ print(len(name))
 
 
 
-```python
-
-```
-
-
-
-```python
-
-```
